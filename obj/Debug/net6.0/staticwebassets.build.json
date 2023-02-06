@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b//4IoPmHRWH/tH0BWfA8k1TlYUq3X8jATO1fLMLQR0=",
+  "Hash": "9hCGKyPXRhrBJBvLlsnEcvNBefypWf0lLa2Yh+k2nSU=",
   "Source": "task",
   "BasePath": "_content/task",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "task\\wwwroot",
       "Source": "task",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\css\\style.css",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\index.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\js\\app.js",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\js\\app.js",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "js/app.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.js"
     },
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\js\\app2.js",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\js\\app2.js",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "js/app2.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app2.js"
     },
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\todo.html",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\todo.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "todo.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\todo.html"
     },
     {
-      "Identity": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\users.html",
+      "Identity": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\users.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\The user\\Desktop\\task\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "users.html",
       "AssetKind": "All",

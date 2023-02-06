@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQuouJelQny5ehHLxUOEeERVozeWxXbTFD4CvGjoTbbiHaAixF7KpS91cH3QMUbpICfeu7JR6xtzMMOeKO2g5w==",
+  "dgSpecHash": "85rNbjNc9piuOdhC+Cvl8f6k+bPQcy3XmkiQPEre+xDIQJ9eizGnUu94LiMDBtgt3RnTy6/mAg61CG6Tj2CLhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The user\\Desktop\\task\\task.csproj",
+  "projectFilePath": "C:\\Users\\The user\\Desktop\\core\\פרויקט סופי\\pnina\\task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

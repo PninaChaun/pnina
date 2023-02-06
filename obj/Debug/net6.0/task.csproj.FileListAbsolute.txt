@@ -260,3 +260,40 @@ C:\Users\The user\Desktop\task\obj\Debug\net6.0\refint\task.dll
 C:\Users\The user\Desktop\task\obj\Debug\net6.0\task.pdb
 C:\Users\The user\Desktop\task\obj\Debug\net6.0\task.genruntimeconfig.cache
 C:\Users\The user\Desktop\task\obj\Debug\net6.0\ref\task.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\data\Task.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\data\User.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.staticwebassets.runtime.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.exe
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\refint\task.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.pdb
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.deps.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.dll
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\bin\Debug\net6.0\task.pdb
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\The user\Desktop\core\פרויקט סופי\pnina\obj\Debug\net6.0\ref\task.dll
